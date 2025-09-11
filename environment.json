@@ -5,7 +5,7 @@
         "id": "test-plugin-public"
     },
     "devEnvironment": {
-        "source": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/plugins/private/",
+        "source": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/plugins/public/",
         "target": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-environment/data/sites/localhost/conn2flow-gestor/plugins",
         "dockerPath": "/var/www/sites/localhost/conn2flow-gestor/plugins/",
         "deploys": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/deploys/",
