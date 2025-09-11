@@ -1,0 +1,10 @@
+[
+    {
+        "perfil": "consumidores",
+        "modulo": "module-test-id"
+    },
+    {
+        "perfil": "administradores",
+        "modulo": "module-test-id"
+    }
+]

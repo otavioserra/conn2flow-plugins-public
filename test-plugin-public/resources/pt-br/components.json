@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Global Public Component 1",
+        "id": "global-public-component-1",
+        "version": "1.0",
+        "checksum": {
+            "html": "",
+            "css": "",
+            "combined": ""
+        }
+    },
+    {
+        "name": "Global Public Component 2",
+        "id": "global-public-component-2",
+        "framework_css": "tailwindcss",
+        "version": "1.0",
+        "checksum": {
+            "html": "",
+            "css": "",
+            "combined": ""
+        }
+    },
+    {
+        "name": "Global Public Component 3",
+        "id": "global-public-component-3",
+        "version": "1.0",
+        "checksum": {
+            "html": "",
+            "css": "",
+            "combined": ""
+        }
+    }
+]

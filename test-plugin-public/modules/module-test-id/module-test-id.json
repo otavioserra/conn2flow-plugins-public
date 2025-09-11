@@ -1,0 +1,29 @@
+{
+    "versao": "0.1.0",
+    "bibliotecas": [],
+    "tabela": {},
+    "resources": {
+        "pt-br": {
+            "pages": [
+                {
+                    "name": "Page Public ID Name",
+                    "id": "page-public-id",
+                    "layout": null,
+                    "path": "page-public-id-path/",
+                    "type": "system",
+                    "option": null,
+                    "root": true,
+                    "version": "1.0",
+                    "checksum": {
+                        "html": "",
+                        "css": "",
+                        "combined": ""
+                    }
+                }
+            ],
+            "layouts": [],
+            "components": [],
+            "variables": []
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Conn2Flow Plugin Development Environment",
+    "description": "Configuration file for the Conn2Flow plugin development environment. Defines which plugin is active for automation scripts. Adjust the 'activePlugin' section to switch between different plugins during development. Ensure the 'plugins' array includes all plugins you may work with, specifying their IDs, names, and paths.",
+    "activePlugin": {
+        "id": "test-plugin-public"
+    },
+    "devEnvironment": {
+        "source": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/plugins/private/",
+        "target": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-environment/data/sites/localhost/conn2flow-gestor/plugins",
+        "dockerPath": "/var/www/sites/localhost/conn2flow-gestor/plugins/",
+        "deploys": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/deploys/",
+        "tests": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/tests/",
+        "testsBuild": "/c/Users/otavi/OneDrive/Documentos/GIT/conn2flow/dev-plugins/tests/build/"
+    },
+    "plugins": [
+        {
+            "id": "test-plugin-public",
+            "name": "Test Plugin Public",
+            "path": "test-plugin-public/"
+        }
+    ]
+}
