@@ -19,6 +19,21 @@
                         "css": "",
                         "combined": ""
                     }
+                },
+                {
+                    "name": "Page Public ID Name 2",
+                    "id": "page-public-id-new-2",
+                    "layout": "layout-pagina-sem-permissao",
+                    "path": "page-public-id-new-path-2/",
+                    "type": "system",
+                    "option": null,
+                    "root": true,
+                    "version": "1.0",
+                    "checksum": {
+                        "html": "",
+                        "css": "",
+                        "combined": ""
+                    }
                 }
             ],
             "layouts": [],
