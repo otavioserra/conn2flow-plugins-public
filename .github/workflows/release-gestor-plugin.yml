@@ -97,6 +97,10 @@ jobs:
           body: |
             Automated release for plugin (temporary skeleton).
             This workflow will be improved when plugin-skeleton is moved to a dedicated branch.
+
+            New features:
+            - New Page Content for Module X
+            - Resource files removed for lighter installation
           files: |
             gestor-plugin.zip
             gestor-plugin.zip.sha256
