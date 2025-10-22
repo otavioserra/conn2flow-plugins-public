@@ -6,6 +6,43 @@
         "pt-br": {
             "pages": [
                 {
+                    "name": "Página Pública ID Nome",
+                    "id": "page-public-id-new",
+                    "layout": "layout-pagina-sem-permissao",
+                    "path": "page-public-id-new-path/",
+                    "type": "system",
+                    "option": null,
+                    "root": true,
+                    "version": "1.0",
+                    "checksum": {
+                        "html": "",
+                        "css": "",
+                        "combined": ""
+                    }
+                },
+                {
+                    "name": "Página Pública ID Nome 2.1",
+                    "id": "page-public-id-new-2",
+                    "layout": "layout-pagina-sem-permissao",
+                    "path": "page-public-id-new-path-2/",
+                    "type": "system",
+                    "option": null,
+                    "root": null,
+                    "version": "1.0",
+                    "checksum": {
+                        "html": "",
+                        "css": "",
+                        "combined": ""
+                    }
+                }
+            ],
+            "layouts": [],
+            "components": [],
+            "variables": []
+        },
+        "en": {
+            "pages": [
+                {
                     "name": "Page Public ID Name",
                     "id": "page-public-id-new",
                     "layout": "layout-pagina-sem-permissao",
@@ -21,13 +58,13 @@
                     }
                 },
                 {
-                    "name": "Page Public ID Name 2",
+                    "name": "Page Public ID Name 2.1",
                     "id": "page-public-id-new-2",
                     "layout": "layout-pagina-sem-permissao",
                     "path": "page-public-id-new-path-2/",
                     "type": "system",
                     "option": null,
-                    "root": true,
+                    "root": null,
                     "version": "1.0",
                     "checksum": {
                         "html": "",

@@ -10,7 +10,8 @@
         "plugin": "test-plugin-public",
         "host": null,
         "status": "A",
-        "versao": "1"
+        "versao": "1",
+        "language": "pt-br"
     },
     {
         "modulo_grupo_id": "administracao-sistema",
@@ -23,6 +24,35 @@
         "plugin": "test-plugin-public",
         "host": null,
         "status": "A",
-        "versao": "1"
+        "versao": "1",
+        "language": "pt-br"
+    },
+    {
+        "modulo_grupo_id": "administracao-sistema",
+        "nome": "Test Public Module",
+        "id": "module-test-id",
+        "titulo": null,
+        "icone": "cog",
+        "icone2": null,
+        "nao_menu_principal": null,
+        "plugin": "test-plugin-public",
+        "host": null,
+        "status": "A",
+        "versao": "1",
+        "language": "en"
+    },
+    {
+        "modulo_grupo_id": "administracao-sistema",
+        "nome": "Test Public Module New",
+        "id": "module-test-id-new",
+        "titulo": null,
+        "icone": "cog",
+        "icone2": null,
+        "nao_menu_principal": null,
+        "plugin": "test-plugin-public",
+        "host": null,
+        "status": "A",
+        "versao": "1",
+        "language": "en"
     }
 ]

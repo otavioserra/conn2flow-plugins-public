@@ -6,6 +6,28 @@
         "pt-br": {
             "pages": [
                 {
+                    "name": "Página Pública ID Nome",
+                    "id": "page-public-id",
+                    "layout": null,
+                    "path": "page-public-id-path/",
+                    "type": "system",
+                    "option": null,
+                    "root": true,
+                    "version": "1.0",
+                    "checksum": {
+                        "html": "",
+                        "css": "",
+                        "combined": ""
+                    }
+                }
+            ],
+            "layouts": [],
+            "components": [],
+            "variables": []
+        },
+        "en": {
+            "pages": [
+                {
                     "name": "Page Public ID Name",
                     "id": "page-public-id",
                     "layout": null,

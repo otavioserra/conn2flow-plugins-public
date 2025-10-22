@@ -10,5 +10,4 @@ $_GESTOR['modulo#'.$_GESTOR['modulo-id']] = json_decode(file_get_contents(__DIR_
 function plg_example_plugin_example_module_run() {
     global $_GESTOR;
     
-    echo "<h1>Example Module Loaded</h1>";
 }
