@@ -76,7 +76,7 @@
         "checksum": "{\"html\":\"617fb3275a3cffae281e3bad59e3e684\",\"css\":\"\",\"combined\":\"617fb3275a3cffae281e3bad59e3e684\"}"
     },
     {
-        "layout_id": null,
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Página Pública ID Nome",
         "id": "page-public-id",
         "language": "pt-br",
@@ -95,7 +95,7 @@
         "checksum": "{\"html\":\"dc3ff1a954e84ccc39fe3c25a8f6c6cd\",\"css\":\"75d50a7349c43c6ccdaae793cefaf1e9\",\"combined\":\"9aeb246ece55f5acc692da8bd8075a88\"}"
     },
     {
-        "layout_id": null,
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Page Public ID Name",
         "id": "page-public-id",
         "language": "en",
@@ -105,16 +105,16 @@
         "opcao": null,
         "raiz": true,
         "sem_permissao": null,
-        "html": "<p>Any html code for this page here. This file is optional<\/p>",
+        "html": "<p>Any html code for this page here. This file is optional<\/p>\r\n<p>Updated Plugin Resources!<\/p>",
         "css": "\/* Any CSS code for this page here. This file is optional *\/",
         "framework_css": null,
         "status": "A",
-        "versao": 2,
+        "versao": 3,
         "file_version": "1.0",
-        "checksum": "{\"html\":\"3930704847d8703e235cbb089f23ce79\",\"css\":\"75d50a7349c43c6ccdaae793cefaf1e9\",\"combined\":\"2fccf93b44a2c8356913612ce846d16e\"}"
+        "checksum": "{\"html\":\"105c20595546965f78e3a5ba3cc9f894\",\"css\":\"75d50a7349c43c6ccdaae793cefaf1e9\",\"combined\":\"40f0ffd3c437d3585a0f93a774eecf17\"}"
     },
     {
-        "layout_id": "layout-pagina-sem-permissao",
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Página Pública ID Nome",
         "id": "page-public-id-new",
         "language": "pt-br",
@@ -133,7 +133,7 @@
         "checksum": "{\"html\":\"0f06e23bef5991d40e37be4b6cf543f6\",\"css\":\"75d50a7349c43c6ccdaae793cefaf1e9\",\"combined\":\"cdb740f28f423ffc7240f8d62afbbb5e\"}"
     },
     {
-        "layout_id": "layout-pagina-sem-permissao",
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Página Pública ID Nome 2.1",
         "id": "page-public-id-new-2",
         "language": "pt-br",
@@ -152,7 +152,7 @@
         "checksum": "{\"html\":\"1699d9cf9a00897e4f26273ca85867e7\",\"css\":\"\",\"combined\":\"1699d9cf9a00897e4f26273ca85867e7\"}"
     },
     {
-        "layout_id": "layout-pagina-sem-permissao",
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Page Public ID Name",
         "id": "page-public-id-new",
         "language": "en",
@@ -171,7 +171,7 @@
         "checksum": "{\"html\":\"0f06e23bef5991d40e37be4b6cf543f6\",\"css\":\"75d50a7349c43c6ccdaae793cefaf1e9\",\"combined\":\"cdb740f28f423ffc7240f8d62afbbb5e\"}"
     },
     {
-        "layout_id": "layout-pagina-sem-permissao",
+        "layout_id": "layout-administrativo-do-gestor",
         "nome": "Page Public ID Name 2.1",
         "id": "page-public-id-new-2",
         "language": "en",

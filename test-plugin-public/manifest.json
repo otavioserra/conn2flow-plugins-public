@@ -1,7 +1,7 @@
 {
     "id": "test-plugin-public",
     "name": "Test Plugin Public",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "description": "Plugin Template Manifest.",
     "compatibility": {
         "min": "1.0.0",

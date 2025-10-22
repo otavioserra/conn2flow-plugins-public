@@ -8,7 +8,7 @@
                 {
                     "name": "Página Pública ID Nome",
                     "id": "page-public-id-new",
-                    "layout": "layout-pagina-sem-permissao",
+                    "layout": "layout-administrativo-do-gestor",
                     "path": "page-public-id-new-path/",
                     "type": "system",
                     "option": null,
@@ -23,7 +23,7 @@
                 {
                     "name": "Página Pública ID Nome 2.1",
                     "id": "page-public-id-new-2",
-                    "layout": "layout-pagina-sem-permissao",
+                    "layout": "layout-administrativo-do-gestor",
                     "path": "page-public-id-new-path-2/",
                     "type": "system",
                     "option": null,
@@ -45,7 +45,7 @@
                 {
                     "name": "Page Public ID Name",
                     "id": "page-public-id-new",
-                    "layout": "layout-pagina-sem-permissao",
+                    "layout": "layout-administrativo-do-gestor",
                     "path": "page-public-id-new-path/",
                     "type": "system",
                     "option": null,
@@ -60,7 +60,7 @@
                 {
                     "name": "Page Public ID Name 2.1",
                     "id": "page-public-id-new-2",
-                    "layout": "layout-pagina-sem-permissao",
+                    "layout": "layout-administrativo-do-gestor",
                     "path": "page-public-id-new-path-2/",
                     "type": "system",
                     "option": null,
