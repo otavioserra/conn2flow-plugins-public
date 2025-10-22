@@ -8,7 +8,7 @@
                 {
                     "name": "Página Pública ID Nome",
                     "id": "page-public-id",
-                    "layout": null,
+                    "layout": "layout-pagina-sem-permissao",
                     "path": "page-public-id-path/",
                     "type": "system",
                     "option": null,
@@ -30,7 +30,7 @@
                 {
                     "name": "Page Public ID Name",
                     "id": "page-public-id",
-                    "layout": null,
+                    "layout": "layout-pagina-sem-permissao",
                     "path": "page-public-id-path/",
                     "type": "system",
                     "option": null,
